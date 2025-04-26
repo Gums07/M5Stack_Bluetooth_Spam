@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:/Users/mirab/esp-idf/frameworks/esp-idf-v5.3.2/",
+    "idf.pythonInstallPath": "C:\\Users\\mirab\\esp-idf\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM4",
+    "idf.toolsPathWin": "C:\\Users\\mirab\\esp-idf"
+}
